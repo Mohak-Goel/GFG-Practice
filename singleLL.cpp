@@ -1,4 +1,5 @@
 #include <iostream>
+#inclue<vector>
 #include<bits/stdc++.h>
 using namespace std;
 template <typename E>
